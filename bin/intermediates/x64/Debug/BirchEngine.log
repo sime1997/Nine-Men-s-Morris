@@ -1,0 +1,68 @@
+﻿  Board.cpp
+C:\Users\Sime\Documents\Dev\BirchEngine - Textures - Copy\BirchEngine\Src\Board.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sime\Documents\Dev\BirchEngine - Textures - Copy\BirchEngine\Src\Board.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sime\Documents\Dev\BirchEngine - Textures - Copy\BirchEngine\Src\Board.cpp(207,7): warning C4101: 'tmp': unreferenced local variable
+C:\Users\Sime\Documents\Dev\BirchEngine - Textures - Copy\BirchEngine\Src\Board.cpp(213,7): warning C4101: 'aux': unreferenced local variable
+C:\Users\Sime\Documents\Dev\BirchEngine - Textures - Copy\BirchEngine\Src\Board.cpp(207,12): warning C4101: 'c': unreferenced local variable
+  Disc.cpp
+C:\Users\Sime\Documents\Dev\BirchEngine - Textures - Copy\BirchEngine\Src\Board.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sime\Documents\Dev\BirchEngine - Textures - Copy\BirchEngine\Src\Board.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sime\Documents\Dev\BirchEngine - Textures - Copy\BirchEngine\Src\Disc.cpp(15,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sime\Documents\Dev\BirchEngine - Textures - Copy\BirchEngine\Src\Disc.cpp(16,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Game.cpp
+C:\Users\Sime\Documents\Dev\BirchEngine - Textures - Copy\BirchEngine\Src\Board.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sime\Documents\Dev\BirchEngine - Textures - Copy\BirchEngine\Src\Board.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sime\Documents\Dev\BirchEngine - Textures - Copy\BirchEngine\Src\Game.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sime\Documents\Dev\BirchEngine - Textures - Copy\BirchEngine\Src\Game.cpp(43,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sime\Documents\Dev\BirchEngine - Textures - Copy\BirchEngine\Src\Game.cpp(43,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sime\Documents\Dev\BirchEngine - Textures - Copy\BirchEngine\Src\Game.cpp(47,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sime\Documents\Dev\BirchEngine - Textures - Copy\BirchEngine\Src\Game.cpp(47,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sime\Documents\Dev\BirchEngine - Textures - Copy\BirchEngine\Src\Game.cpp(53,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sime\Documents\Dev\BirchEngine - Textures - Copy\BirchEngine\Src\Game.cpp(53,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Player.cpp
+C:\Users\Sime\Documents\Dev\BirchEngine - Textures - Copy\BirchEngine\Src\Board.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sime\Documents\Dev\BirchEngine - Textures - Copy\BirchEngine\Src\Board.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sime\Documents\Dev\BirchEngine - Textures - Copy\BirchEngine\Src\Player.cpp(75,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sime\Documents\Dev\BirchEngine - Textures - Copy\BirchEngine\Src\Player.cpp(75,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sime\Documents\Dev\BirchEngine - Textures - Copy\BirchEngine\Src\Player.cpp(144,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sime\Documents\Dev\BirchEngine - Textures - Copy\BirchEngine\Src\Player.cpp(144,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sime\Documents\Dev\BirchEngine - Textures - Copy\BirchEngine\Src\Player.cpp(153,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sime\Documents\Dev\BirchEngine - Textures - Copy\BirchEngine\Src\Player.cpp(153,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sime\Documents\Dev\BirchEngine - Textures - Copy\BirchEngine\Src\Player.cpp(155,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sime\Documents\Dev\BirchEngine - Textures - Copy\BirchEngine\Src\Player.cpp(155,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  TextureManger.cpp
+C:\Users\Sime\Documents\Dev\BirchEngine - Textures - Copy\BirchEngine\Src\Board.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sime\Documents\Dev\BirchEngine - Textures - Copy\BirchEngine\Src\Board.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  main.cpp
+C:\Users\Sime\Documents\Dev\BirchEngine - Textures - Copy\BirchEngine\Src\Board.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sime\Documents\Dev\BirchEngine - Textures - Copy\BirchEngine\Src\Board.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+C:\Users\Sime\Documents\Dev\BirchEngine - Textures - Copy\BirchEngine\Src\Board.cpp(114): warning C4715: 'Board::GetPosition': not all control paths return a value
+C:\Users\Sime\Documents\Dev\BirchEngine - Textures - Copy\BirchEngine\Src\Board.cpp(185): warning C4715: 'Board::GetName': not all control paths return a value
+Disc.obj : error LNK2019: unresolved external symbol SDL_SetRenderDrawColor referenced in function "public: void __cdecl Disc::Draw(int)" (?Draw@Disc@@QEAAXH@Z)
+Game.obj : error LNK2001: unresolved external symbol SDL_SetRenderDrawColor
+Player.obj : error LNK2019: unresolved external symbol SDL_GetMouseState referenced in function "public: void __cdecl Player::MoveLoop(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?MoveLoop@Player@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Game.obj : error LNK2001: unresolved external symbol SDL_GetMouseState
+Player.obj : error LNK2019: unresolved external symbol SDL_PollEvent referenced in function "public: void __cdecl Player::MoveLoop(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?MoveLoop@Player@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Game.obj : error LNK2001: unresolved external symbol SDL_PollEvent
+Player.obj : error LNK2019: unresolved external symbol SDL_RenderPresent referenced in function "public: void __cdecl Player::ProcessClick(float,float)" (?ProcessClick@Player@@QEAAXMM@Z)
+Game.obj : error LNK2001: unresolved external symbol SDL_RenderPresent
+Player.obj : error LNK2019: unresolved external symbol SDL_Delay referenced in function "public: void __cdecl Player::Animate(class Vector2,class Vector2)" (?Animate@Player@@QEAAXVVector2@@0@Z)
+Game.obj : error LNK2001: unresolved external symbol SDL_Delay
+Game.obj : error LNK2019: unresolved external symbol SDL_CreateWindow referenced in function "public: __cdecl Game::Game(char const *,int,int)" (??0Game@@QEAA@PEBDHH@Z)
+Game.obj : error LNK2019: unresolved external symbol SDL_DestroyWindow referenced in function "public: void __cdecl Game::clean(void)" (?clean@Game@@QEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol SDL_CreateRenderer referenced in function "public: __cdecl Game::Game(char const *,int,int)" (??0Game@@QEAA@PEBDHH@Z)
+Game.obj : error LNK2019: unresolved external symbol SDL_RenderClear referenced in function "public: void __cdecl Game::render(void)" (?render@Game@@QEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol SDL_DestroyRenderer referenced in function "public: void __cdecl Game::clean(void)" (?clean@Game@@QEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol SDL_Init referenced in function "public: __cdecl Game::Game(char const *,int,int)" (??0Game@@QEAA@PEBDHH@Z)
+Game.obj : error LNK2019: unresolved external symbol SDL_Quit referenced in function "public: void __cdecl Game::clean(void)" (?clean@Game@@QEAAXXZ)
+TextureManger.obj : error LNK2019: unresolved external symbol SDL_FreeSurface referenced in function "public: static struct SDL_Texture * __cdecl TextureManager::LoadTexture(char const *)" (?LoadTexture@TextureManager@@SAPEAUSDL_Texture@@PEBD@Z)
+TextureManger.obj : error LNK2019: unresolved external symbol SDL_CreateTextureFromSurface referenced in function "public: static struct SDL_Texture * __cdecl TextureManager::LoadTexture(char const *)" (?LoadTexture@TextureManager@@SAPEAUSDL_Texture@@PEBD@Z)
+TextureManger.obj : error LNK2019: unresolved external symbol SDL_RenderFillRect referenced in function "public: static void __cdecl TextureManager::DrawRectangle(struct SDL_Rect)" (?DrawRectangle@TextureManager@@SAXUSDL_Rect@@@Z)
+TextureManger.obj : error LNK2019: unresolved external symbol SDL_RenderCopy referenced in function "public: static void __cdecl TextureManager::Draw(struct SDL_Texture *,struct SDL_Rect,struct SDL_Rect)" (?Draw@TextureManager@@SAXPEAUSDL_Texture@@USDL_Rect@@1@Z)
+TextureManger.obj : error LNK2019: unresolved external symbol IMG_Load referenced in function "public: static struct SDL_Texture * __cdecl TextureManager::LoadTexture(char const *)" (?LoadTexture@TextureManager@@SAPEAUSDL_Texture@@PEBD@Z)
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Dev\SDL2\lib\x86\SDL2.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Dev\SDL2\lib\x86\SDL2main.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Sime\Documents\Dev\SDL2_image-2.0.1\lib\x86\SDL2_image.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Sime\Documents\Dev\BirchEngine - Textures - Copy\bin\x64\Debug\BirchEngine.exe : fatal error LNK1120: 18 unresolved externals
