@@ -1,0 +1,28 @@
+Upute kako se igrica igra:
+U prvoj fazi potrebno je stisnuti na odgovarajucu poziciju na kojoj se treba pojaviti disk
+u drugoj fazi prvo treba stisnuti disk koji treba pomaknuti i onda stisnuti na poziciju na koju ga pomaknuti
+za oduzimanje protivnikovaa diska treba ga stisnuti
+
+bilo koja tipka tipkovnica resetira igru
+
+
+Upute u library-ima:
+KOristene SDL2,SDL_image-2.0.1 i SDL_ttf-2.0.14
+treba ih postaviti u isti direktorij kao i projekt(u ovom slucaju u direktorij Dir)
+
+Za pravilu upotrebu postrebno je linkati sljedece
+Uci u properties projekta
+	VC++ directory:
+		Include directories: C:\Users\Sime\Documents\Dev\SDL2_image-2.0.1\include;C:\Dev\SDL2\include;$(IncludePath)
+	C/C++\general:
+		Addition Include directories: C:\Users\Sime\Documents\Dev\SDL2_ttf-2.0.14\include;C:\Users\Sime\Documents\Dev\SDL2_image-2.0.1\include;C:\Dev\SDL2\include;%(AdditionalIncludeDirectories)
+	
+	Linker\general:
+		Addition Library directories: C:\Users\Sime\Documents\Dev\SDL2_ttf-2.0.14\lib\x86;C:\Users\Sime\Documents\Dev\SDL2_image-2.0.1\lib\x86;%(AdditionalLibraryDirectories)
+	Linker\input:
+		SDL2.lib;SDL2main.lib;SDL2_image.lib;SDL2_ttf.lib;%(AdditionalDependencies)
+	System\Subsystem:
+		Console (/SUBSYSTEM:CONSOLE)
+
+
+pocetni dio C:\Users\Sime\Documents kopiran radi lakseg snalazenja
